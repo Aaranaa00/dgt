@@ -1,0 +1,5 @@
+test19;a;a;c;a;b;b;a;a;c;a
+test24;a;a;c;a;b;b;a;a;c;a
+test32;b;a;b;a;a;b;a;b;b;c
+test51;c;c;a;b;b;c;a;b;c;b
+test40;c;c;a;b;b;c;a;b;c;b

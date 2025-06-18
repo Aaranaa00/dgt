@@ -1,0 +1,5 @@
+Ana Gómez;c;c;b;c;b;c;a;b;a;b
+Luis Herrera;a;a;a;b;c;c;b;c;b;c
+Marta Ruiz;c;b;a;c;a;c;b;b;c;b
+Jorge Torres;c;c;a;c;a;b;c;c;a;b
+Elena Martín;b;a;a;b;c;b;b;b;a;c

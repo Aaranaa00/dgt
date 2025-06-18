@@ -1,0 +1,5 @@
+Carlos López;a;b;b;b;c;a;a;a;c;c
+Sofía Morales;b;a;b;a;a;b;a;b;b;c
+David Ruiz;a;c;a;c;b;a;c;b;a;a
+Laura Jiménez;b;a;a;a;c;a;b;a;b;b
+Raúl Castillo;a;a;c;b;b;a;c;b;c;b
